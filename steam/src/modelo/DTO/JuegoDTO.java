@@ -1,4 +1,4 @@
-package model.DTO;
+package modelo.DTO;
 
 public class JuegoDTO {
 }
